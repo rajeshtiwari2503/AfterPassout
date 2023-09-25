@@ -1,0 +1,19 @@
+.stdTxt {
+    font-size: 26px;
+    color: #16A6EC;
+    font-weight: bold;
+}
+
+.stdTxt2 {
+    font-size: 18px;
+}
+
+.linkTxt {
+    padding-top: 6px;
+    font-size: 14px;
+    color: black;
+}
+
+.linkTxt:hover {
+    color: #16A6EC;
+}

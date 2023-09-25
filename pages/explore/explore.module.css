@@ -1,0 +1,24 @@
+
+.getTxt{
+    font-size: 48px;
+    font-weight: bolder;
+}
+.firstTxt{
+    font-size: 85px;
+    font-weight: bolder;
+}
+.jobTxt{
+    font-size: 85px;
+    color: #16A6EC;
+    font-weight: bolder;
+}
+.startTxt{
+    font-size: 24px;
+    font-weight: bolder;
+}
+.exploreBtn{
+    background-color: #16A6EC;
+    color: #ffffff;
+    border: 1px solid #16A6EC;
+    border-radius: 4px;
+}
