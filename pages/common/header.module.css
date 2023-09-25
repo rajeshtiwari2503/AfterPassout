@@ -1,0 +1,23 @@
+.headerBackground {
+    background-color: #ffffff;
+    height: 55px;
+}
+
+.logoImage {
+    width: 252px;
+    height: 45px;
+}
+
+.loginBtn {
+    background-color: #ffffff;
+    color: #16A6EC;
+    border-radius: 4px;
+    border: 1px solid #16A6EC;
+}
+
+.signupBtn {
+    background-color: #16A6EC;
+    color: #ffffff;
+    border: 1px solid #16A6EC;
+    border-radius: 4px;
+}
