@@ -1,0 +1,30 @@
+.getImage {
+    position: relative;
+}
+
+.getMainDiv {
+    position: absolute;
+    top: 80px;
+    left: 8%;
+    right: 8%;
+}
+
+.spanTxt {
+    color: #16A6EC;
+}
+
+.getTxt {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.jobTxt {
+    font-size: 32px;
+    font-weight: bold;
+    color: #16A6EC;
+}
+
+.cardDiv {
+    background-color: #FFFFFF;
+    border-radius: 4px;
+}
