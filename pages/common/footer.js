@@ -14,10 +14,10 @@ const Footer = () => {
 
         <>
 
-            <div >
+            <div className='mt-5' >
                 <div style={{backgroundColor:"#16A6EC"}}>
                   <div className='container'>
-                    <div className='row pt-5 pb-5'>
+                    <div className='row pt-4 pb-4'>
                         <div className='col-3'>
                          <div className='bg-white p-2 rounded d-flex justify-content-center align-itens-center'>
                             <img   alt='student'src='studentImage.png' />
@@ -154,7 +154,7 @@ const Footer = () => {
 
                             <div className="col-12 text-center  ">
 
-                                <div style={{ fontSize: "14px", color: "#BEBEBE" }}>
+                                <div className='mb-2' style={{ fontSize: "14px", color: "#BEBEBE" }}>
                                     Copyright © AFTER PASSOUT PRIVATE LIMITED.All rights reserved | Privacy Policy | Term & Conditions | Cancellation & Refund Policy | Shipping & Delivery Policy
 
                                 </div>
